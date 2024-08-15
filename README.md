@@ -2,8 +2,7 @@
 Ignite Shop, sua nova loja online especializada em camisetas exclusivas da Rocketseat! Combinamos estilo e tecnologia para oferecer uma experiência de compra excepcional.
 construída com React e Next.js, Para garantir uma experiência de pagamento segura e sem complicações, integramos nossa loja com a API do Stripe.
 
-![Imagem do projeto](src/assets/dashboard-dtMoney.png)
-![Imagem do projeto](src/assets/form-dtMoney.png)
+https://github.com/user-attachments/assets/58cb47c2-c185-4ab0-9e25-1eb948b08a73
 
 ### Veja o projeto online
 
