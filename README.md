@@ -3,16 +3,13 @@ Ignite Shop, sua nova loja online especializada em camisetas exclusivas da Rocke
 construída com React e Next.js, Para garantir uma experiência de pagamento segura e sem complicações, integramos nossa loja com a API do Stripe.
 
 https://github.com/user-attachments/assets/58cb47c2-c185-4ab0-9e25-1eb948b08a73
-
-### Veja o projeto online
-
  
 ### Tecnologias Utilizadas
 
 - React: ^18.3.1
 - Typescript: ^5.2.2
--Next ^14.2.3
--Stripe
+- Next ^14.2.3
+- Stripe
 
 ### Funcionalidades
 
